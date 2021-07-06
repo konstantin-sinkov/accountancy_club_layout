@@ -1,0 +1,17 @@
+@media screen and (max-width: 480px) {
+
+    .header_top__menu, .first_screen__right {
+        display: none;
+    }
+
+    .wrapper {
+        padding: 0 20px;
+    }
+
+    .first_screen__button {
+        position: initial;
+        margin: 25px auto 0;
+    }
+
+
+}
